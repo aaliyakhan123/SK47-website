@@ -447,3 +447,29 @@ section{
 padding-top:60px;
 
 }
+@media (max-width: 768px){
+
+.home{
+height: 80vh;
+padding: 20px;
+text-align: center;
+}
+
+.hero-title{
+font-size: 40px;
+line-height: 1.2;
+}
+
+.hero-sub{
+font-size: 18px;
+}
+
+nav{
+gap: 10px;
+}
+
+.logo{
+width: 70px;
+}
+
+}
