@@ -99,33 +99,11 @@ color:#00c3ff;
 }
 
 
-
-/* HOME */
-
 .home{
-
-height:100vh;
-
-background:
-
-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
-
-url("background: url('wallpaper2.jpg');");
-
-background-size:cover;
-
-background-position:center;
-
-display:flex;
-
-justify-content:center;
-
-align-items:center;
-
-text-align:center;
-
-margin-top:90px;
-
+background: url("wallpaper2.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
 }
 
 
